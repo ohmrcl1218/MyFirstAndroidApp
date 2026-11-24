@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Student Log System</string>
+    <string name="app_logo_desc">App Logo</string>
+    <string name="title_student_log_system">Student Log System</string>
+    <string name="subtitle_sign_in">Please sign in to continue</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="prompt_no_account">Don\'t have an account? </string>
+    <string name="btn_register">Register</string>
+
+    <string name="title_student_registration">Student Registration</string>
+    <string name="heading_academic_info">Academic Information</string>
+    <string name="hint_student_no">Student Number (e.g., 2023-00123)</string>
+    <string name="label_program">Program</string>
+    <string name="label_year_level">Year Level</string>
+    <string name="heading_personal_info">Personal Information</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_middlename">Middle Name (Optional)</string>
+    <string name="heading_account_credentials">Account Credentials</string>
+    <string name="btn_register_account">Register Account</string>
+    <string name="btn_back_to_login">Back to Login</string>
+
+    <string name="title_student_dashboard">Dashboard</string>
+    <string name="btn_logout">Logout</string>
+    <string name="heading_student_profile">Student Profile</string>
+    <string name="label_name_placeholder">Name: Lastname, Firstname M.</string>
+    <string name="label_student_no_placeholder">Student No: 2023-00123</string>
+    <string name="label_program_year_placeholder">Program: BSCS | Year: 3rd Year</string>
+    <string name="heading_log_actions">Attendance Log Actions</string>
+    <string name="btn_time_in">Time In</string>
+    <string name="btn_time_out">Time Out</string>
+    <string name="heading_log_history">Log History</string>
+    <string name="msg_no_logs">No logs recorded yet.</string>
+    <string name="desc_toggle_dark_mode">Toggle Dark Mode</string>
+</resources>
